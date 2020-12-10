@@ -1,5 +1,5 @@
 //
-//  Common.h
+//  Animin.h
 //  Demo
 //
 //  Created by dx on 2020/12/10.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Common : UIView
+@interface Animin : UIView
 
 @end
 

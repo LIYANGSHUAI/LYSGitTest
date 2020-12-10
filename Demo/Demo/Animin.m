@@ -1,14 +1,14 @@
 //
-//  Common.m
+//  Animin.m
 //  Demo
 //
 //  Created by dx on 2020/12/10.
 //  Copyright © 2020 CodeMa. All rights reserved.
 //
 
-#import "Common.h"
+#import "Animin.h"
 
-@implementation Common
+@implementation Animin
 
 /*
 // Only override drawRect: if you perform custom drawing.
